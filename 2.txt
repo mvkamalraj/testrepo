@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 this is from the local repo
-=======
-this si from the Second Developer
->>>>>>> 45b6f41b85b2542cd11155d1b28574f2f26547fc
